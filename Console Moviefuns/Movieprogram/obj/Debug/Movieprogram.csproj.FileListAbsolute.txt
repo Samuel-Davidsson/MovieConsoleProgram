@@ -1,0 +1,12 @@
+C:\Users\Samuel\Downloads\Labb1\Movieprogram\Movieprogram\bin\Debug\Movieprogram.exe.config
+C:\Users\Samuel\Downloads\Labb1\Movieprogram\Movieprogram\obj\Debug\Movieprogram.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Downloads\Labb1\Movieprogram\Movieprogram\bin\Debug\Movieprogram.exe
+C:\Users\Samuel\Downloads\Labb1\Movieprogram\Movieprogram\bin\Debug\Movieprogram.pdb
+C:\Users\Samuel\Downloads\Labb1\Movieprogram\Movieprogram\obj\Debug\Movieprogram.exe
+C:\Users\Samuel\Downloads\Labb1\Movieprogram\Movieprogram\obj\Debug\Movieprogram.pdb
+C:\Users\Samuel\Downloads\Labb1\Labb1\Movieprogram\bin\Debug\Movieprogram.exe.config
+C:\Users\Samuel\Downloads\Labb1\Labb1\Movieprogram\bin\Debug\Movieprogram.exe
+C:\Users\Samuel\Downloads\Labb1\Labb1\Movieprogram\bin\Debug\Movieprogram.pdb
+C:\Users\Samuel\Downloads\Labb1\Labb1\Movieprogram\obj\Debug\Movieprogram.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Downloads\Labb1\Labb1\Movieprogram\obj\Debug\Movieprogram.exe
+C:\Users\Samuel\Downloads\Labb1\Labb1\Movieprogram\obj\Debug\Movieprogram.pdb
